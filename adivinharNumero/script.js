@@ -6,7 +6,7 @@ const tentativas = document.querySelector('.tentativas');
 const ultimoResultado = document.querySelector('.ultimoResultado');
 const altoOuBaixo = document.querySelector('.altoOuBaixo');
 
-const enviarTentativa = document.querySelector('.enviarTentativa')
+const enviarTentativa = document.querySelector('.enviarTentativa');
 const campoTentativa = document.querySelector('.campoTentativa');
 
 let contadorTentativa = 1;
